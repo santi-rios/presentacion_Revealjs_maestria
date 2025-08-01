@@ -1,0 +1,16 @@
+---
+format:
+  revealjs:
+    appearance:
+      autoappear: true
+      autoelements: '{"ul li": "animate__fadeInLeft"}'
+
+revealjs-plugins:
+    - appearance
+---
+
+## Listt
+- one
+- two
+- tr
+
